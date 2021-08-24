@@ -1,7 +1,7 @@
 # BotStatus
 Updates your bot status in the message, every two hours.
 
-**_NOTE:_** This branch uses github workflows to host your code, and doesn't rely on another hosting platform. If you want to deploy on heroku/vps/whereever, go to [this branch](https://github.com/xditya/BotStatus/tree/deploy).
+**_NOTE:_** This branch uses github workflows to host your code, and doesn't rely on another hosting platform. If you want to deploy on heroku/vps/whereever, go to [TGBotXD](T.ME/TGBOTZXD).
 
 # Secrets.
 
